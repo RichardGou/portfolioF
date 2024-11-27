@@ -1,5 +1,5 @@
 ---
-title: Image Manipulation and Qr code
+title: Image Manipulation and QR code
 publishDate: 2023-06-06 00:00:00
 img: /assets/ImageManip2.jpg
 img_alt: Image manipulation

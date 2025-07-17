@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-  //site: 'https://richardgoudelin.github.io',
-  site: 'https://goudelinrichard.one/',
+  site: 'https://richardgoudelin.github.io',
+  //site: 'https://goudelinrichard.one/',
   //base: '/richardgoudelinSitePerso',
 })

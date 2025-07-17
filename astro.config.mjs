@@ -4,5 +4,5 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
   site: 'https://richardgoudelin.github.io',
   //site: 'https://goudelinrichard.one/',
-  //base: '/richardgoudelinSitePerso',
+  base: '/portfolioF',
 })

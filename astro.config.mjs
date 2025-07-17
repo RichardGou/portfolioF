@@ -1,8 +1,6 @@
 import { defineConfig } from 'astro/config';
 
-// https://astro.build/config
 export default defineConfig({
-  site: 'https://richardgoudelin.github.io',
-  //site: 'https://goudelinrichard.one/',
-  base: '/portfolioF',
-})
+  site: 'https://richardgoudelin.github.io',  // ou + '/portfolioF' si tu veux
+  base: '/portfolioF/',                      // <-- note bien le slash final
+});
